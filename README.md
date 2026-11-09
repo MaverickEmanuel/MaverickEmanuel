@@ -16,7 +16,7 @@ Over the past year I've built enterprise MCP servers, worked on an internal plat
 - **AI:** MCP, RAG, LangChain, LangGraph, LlamaIndex, PyTorch, Amazon Bedrock
 - **Infra:** AWS (Lambda, EKS, SageMaker, RDS), Docker, Kubernetes, Terraform, GitHub Actions
 
-### 📫 Elsewhere
+### 📫 Education
 
 Queen's University, Computing (Honours) with an AI specialization, 2025.
 
